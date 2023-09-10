@@ -17,6 +17,10 @@ An API for a social network web application where users can share their thoughts
 ## Usage
 Run `npm run start` to run the application locally.
 
+
+https://github.com/averyjmiller/social-network-api/assets/54604339/50ff22fa-7f86-452b-8b9f-e08b8bec5e00
+
+
 ## License
 This repository is covered under MIT License. For more information, check the `LICENSE` file.
 
